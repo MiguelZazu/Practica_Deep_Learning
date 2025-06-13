@@ -1,0 +1,9 @@
+He realizado la practica con Visual Studio Code por lo que es necesario instalar CUDA y tener una tarjeta gráfica de NVIDIA.
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+pip install pandas numpy matplotlib scikit-learn opencv-python-headless torch torchvision optuna
+
+También he usado la función plot_training_curves del archivo module_utils de una sesión de la clase.
+
+He utilizado chatgpt en la parte del estudio y busqueda de hiperparámetros con optuna.
